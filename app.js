@@ -9,4 +9,4 @@ const gateImg = document.querySelector('img');
 gateImg.src = imgPath;
 
 
-title.textContent = "Where is he ?"
+title.textContent = "Where is she ?"
