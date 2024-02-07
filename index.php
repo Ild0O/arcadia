@@ -9,6 +9,6 @@
 
     <?php 
     $arcadia = "Where she is ?";
-    echo $arcadia ; ?>
+    echo $arcadia . 'page php' ; ?>
 </body>
 </html>
