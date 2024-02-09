@@ -1,0 +1,5 @@
+{
+    "accueil": "./view/accueil.html",
+    "incarnation": "./view/incarnation.html",
+    "info": "./view/info.html"
+}
